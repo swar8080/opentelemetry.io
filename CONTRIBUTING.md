@@ -74,7 +74,7 @@ change was already implemented but not yet released.
 
 For small changes to a single file, you can edit directly in GitHub by clicking
 **Edit this file** button. After forking the repository, follow the instructions
-in [Editing files][].
+in [Editing files][]. Test
 
 For everything else, follow the
 [instructions to setup a development environment](#development) below.
